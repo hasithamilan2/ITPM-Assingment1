@@ -118,26 +118,45 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: matapaankannaoonee
-          - generic [ref=e133]:
-            - button "Open File" [ref=e134] [cursor=pointer]:
-              - img [ref=e135]
-            - button "Copy" [ref=e137] [cursor=pointer]:
-              - img [ref=e138]
-            - button "Cut" [ref=e140] [cursor=pointer]:
-              - img [ref=e141]
-            - button "Paste" [ref=e143] [cursor=pointer]:
-              - img [ref=e144]
-            - button "Clear" [ref=e146] [cursor=pointer]:
-              - img [ref=e147]
-        - button "Swap Languages" [ref=e150] [cursor=pointer]:
-          - img [ref=e151]
-        - generic [ref=e153]:
-          - generic [ref=e154]: Sinhala
-          - generic [ref=e156]:
-            - button "Copy" [ref=e157] [cursor=pointer]:
-              - img [ref=e158]
-            - button "Clear" [ref=e160] [cursor=pointer]:
-              - img [ref=e161]
-      - button "Clear" [ref=e164] [cursor=pointer]: 🗑️ Clear
+          - generic [ref=e131]:
+            - textbox "Input Your Singlish Text Here." [ref=e132]: mageIDEka denna.
+            - list [ref=e134]:
+              - listitem [ref=e135] [cursor=pointer]: දෙන්න
+              - listitem [ref=e136] [cursor=pointer]: දෙන්නට
+              - listitem [ref=e137] [cursor=pointer]: දෙන්නා
+              - listitem [ref=e138] [cursor=pointer]: දෙන්නී
+              - listitem [ref=e139] [cursor=pointer]: දෙන්නෝ
+              - listitem [ref=e140] [cursor=pointer]: දෙන්නක්
+              - listitem [ref=e141] [cursor=pointer]: දෙන්නට කැමැතියයි කීම
+              - listitem [ref=e142] [cursor=pointer]: දෙන්නට සූදානම් මිලගණන
+              - listitem [ref=e143] [cursor=pointer]: ඩෙණ්ණ.
+              - listitem [ref=e144] [cursor=pointer]: ඩෙණ්න.
+              - listitem [ref=e145] [cursor=pointer]: ඩෙන්ණ.
+              - listitem [ref=e146] [cursor=pointer]: ඩෙන්න.
+              - listitem [ref=e147] [cursor=pointer]: ඪෙණ්ණ.
+              - listitem [ref=e148] [cursor=pointer]: ඪෙණ්න.
+              - listitem [ref=e149] [cursor=pointer]: ඪෙන්ණ.
+              - listitem [ref=e150] [cursor=pointer]: ඪෙන්න.
+          - generic [ref=e151]:
+            - button "Open File" [ref=e152] [cursor=pointer]:
+              - img [ref=e153]
+            - button "Copy" [ref=e155] [cursor=pointer]:
+              - img [ref=e156]
+            - button "Cut" [ref=e158] [cursor=pointer]:
+              - img [ref=e159]
+            - button "Paste" [ref=e161] [cursor=pointer]:
+              - img [ref=e162]
+            - button "Clear" [ref=e164] [cursor=pointer]:
+              - img [ref=e165]
+        - button "Swap Languages" [ref=e168] [cursor=pointer]:
+          - img [ref=e169]
+        - generic [ref=e171]:
+          - generic [ref=e172]: Sinhala
+          - generic [ref=e173]: මගෙඉඬෙක ඩෙන්න.
+          - generic [ref=e174]:
+            - button "Copy" [ref=e175] [cursor=pointer]:
+              - img [ref=e176]
+            - button "Clear" [ref=e178] [cursor=pointer]:
+              - img [ref=e179]
+      - button "Clear" [ref=e182] [cursor=pointer]: 🗑️ Clear
 ```

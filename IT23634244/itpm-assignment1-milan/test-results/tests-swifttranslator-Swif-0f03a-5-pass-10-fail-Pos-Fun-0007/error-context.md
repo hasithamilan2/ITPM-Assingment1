@@ -118,7 +118,7 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: 25/12/2
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: mama
           - generic [ref=e133]:
             - button "Open File" [ref=e134] [cursor=pointer]:
               - img [ref=e135]
